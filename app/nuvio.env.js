@@ -19,7 +19,10 @@
   "TRAKT_CLIENT_ID": "e04d98107c4066fb86e123e320306dd4fa0309c4ea2f63235f008a48e115944b",
   "TRAKT_CLIENT_SECRET": "a86c4bbe18c5f72ed708b0d616925694f9fb87e5e61af50f7a041b2871a459d6",
   "TRAKT_API_URL": "https://api.trakt.tv",
-  "TRAKT_REDIRECT_URI": "urn:ietf:wg:oauth:2.0:oob"
+  "TRAKT_REDIRECT_URI": "urn:ietf:wg:oauth:2.0:oob",
+  "SIMKL_CLIENT_ID": "",
+  "SIMKL_API_URL": "https://api.simkl.com",
+  "SIMKL_APP_NAME": "nuvio"
 };
   for (var key in values) {
     if (Object.prototype.hasOwnProperty.call(values, key)) {
